@@ -1,0 +1,4 @@
+- 👋 Hola, Soy @germacias
+- 👀 Estoy interesado en programacion y trabajos remotos
+- 🌱 Actualmente estoy trabajando con tecnologia java jsp, hibernate, spring framework
+- 📫 Me pueden contactar en germacias@gmail.com
